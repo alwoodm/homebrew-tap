@@ -8,8 +8,8 @@ class Myssh < Formula
 
   license "MIT"
 
-  depends_on "php"
-  depends_on "sshpass"
+ depends_on "php@8.3"
+ depends_on "sshpass"
 
   def install
     bin.install "myssh"
