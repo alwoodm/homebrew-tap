@@ -4,7 +4,7 @@ class Myssh < Formula
   
   url "https://github.com/alwoodm/my-ssh/releases/download/v1.1.0/myssh"
   sha256 "d03640b5ec69319ae872524c215efa4f9e934871775f5db61ac6642168d76d58"
-  version "1.1.0"
+  version "1.1.1"
 
   license "MIT"
 
