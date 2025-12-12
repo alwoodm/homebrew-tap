@@ -2,9 +2,9 @@ class Myssh < Formula
   desc "Robust CLI SSH Manager"
   homepage "https://github.com/alwoodm/my-ssh"
   
-  url "https://github.com/alwoodm/my-ssh/releases/download/v1.1.0/myssh"
-  sha256 "d03640b5ec69319ae872524c215efa4f9e934871775f5db61ac6642168d76d58"
-  version "1.1.1"
+  url "https://github.com/alwoodm/my-ssh/releases/download/v1.1.2/myssh"
+  sha256 "e65dd322611b98abfa6d00cf0d8e782fafce73fb64a4761bc0b773b37e1a91a3"
+  version "1.1.2"
 
   license "MIT"
 
